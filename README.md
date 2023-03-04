@@ -1,20 +1,8 @@
-## Hi there ! 👋
 
-> For business contact me at 
-**apexm2918@gmail.com**
+> I just love <b>open source</b>.
+> You can contact me via <a href='https://freeplayus.in/p/contact.html'>by clicking here</a>.
 
-- 🔭 I’m currently working on ... Freeplay
-- 🌱 I’m currently learning ...  Nothing
-- 👯 I’m looking to collaborate on ... Tg BotDev
-- 💬 Ask me about ... Java / Python
-- 📫 How to reach me: ... Busy
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I wasted my time in writing this stupid README !
-
-<a href='https://freeplayus.in'><img src='https://i.imgur.com/EuSRG8h.gif' width='250px' height='250px' /></a> |
-|:-----------------------------------------------------------------------------------------------------------------------------------:|
-|      <center> [Freeplay](https://freeplayus.in) </center>  |
-| <a href='https://t.me/bloggerminds'><img align='center' src='https://tiny.cc/tgicon' width='40px' height='40px'></a> <a href='https://github.com/Soumyabrata-eng'><img align='center' src='http://tiny.cc/githubme'  width='40px' height='40px'></a> <a href='https://www.buymeacoffee.com/htcworld' target='blank'><img align='center' src='https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg' height='40' width='40' /></a> |
+![skills](https://skillicons.dev/icons?i=html,css,cloudflare,git,java,py,stackoverflow)
 
 ## Basic Information
 
