@@ -1,6 +1,5 @@
 
-> I just love <b>open source</b>.
-> You can contact me via <a href='https://freeplayus.in/p/contact.html'>by clicking here</a>.
+> I just love <b>open source</b>. FOSS DEVELOPER.
 
 ![skills](https://skillicons.dev/icons?i=html,css,cloudflare,git,java,py,stackoverflow)
 
@@ -8,7 +7,7 @@
 
 I am quite active at telegram and coding too. I generally procrastinate in other things except
 coding and telegram and YouTube. 
-:warning: **Search 🔍 @notaboutme in telegram to learn more.**
+:warning: **KEEK**
 
 ## Stats
 
