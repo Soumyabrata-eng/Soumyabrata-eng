@@ -1,7 +1,7 @@
 
 > I just love <b>open source</b>. FOSS DEVELOPER.
 
-![skills](https://skillicons.dev/icons?i=html,css,cloudflare,git,java,py,stackoverflow)
+![skills](https://skillicons.dev/icons?i=html,css,java,javascript,c,cs,python)
 
 ## Basic Information
 
